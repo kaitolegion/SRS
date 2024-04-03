@@ -20,5 +20,12 @@
 
 
 ### Faculty Dashboard
+![image](https://github.com/kaitolegion/SRS/assets/47966968/23acd094-09b1-465c-9838-3b7f59cc0b90)
 
 ### Administrator Dashboard
+- Home
+![image](https://github.com/kaitolegion/SRS/assets/47966968/679235bb-02a3-46f3-b063-d7ef3e90fd21)
+
+- Profile
+![image](https://github.com/kaitolegion/SRS/assets/47966968/b133ef71-aea9-4292-9851-1b414eec6937)
+
