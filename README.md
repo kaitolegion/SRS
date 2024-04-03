@@ -1,12 +1,12 @@
-# SRS
+# SRS - Student Registration System
 
-**DSSC-SRS - is one of my small project in the (BSIT) that involves the development using C# Language. This includes roles such as students, faculty, and administrators. It allows students to register.**
+- DSSC-SRS - is one of my small project in the (BSIT) that involves the development using Visual Studio and C# Language. This only my Reference for future projects.
 
 ## AIMS
 
-- The DSSC-SRS aims to create a user-friendly system
-- The DSSC-SRS uses of known MS SQL Database for storing and retrieving data
-- It also provides administrators and faculty with tools to efficiently handle student data
+- The DSSC-SRS aims to create a user-friendly system.
+- The DSSC-SRS uses of known MS SQL Database for storing and retrieving data.
+- It also provides administrators and faculty with tools to efficiently handle student data.
 
 ## View Screenshot
 
