@@ -11,8 +11,13 @@
 ## View Screenshot
 
 ### Login Page
+![image](https://github.com/kaitolegion/SRS/assets/47966968/d3f32e7d-c2d9-46bc-9726-dd248f0b5aab)
+
+
 
 ### Student Dashboard
+![image](https://github.com/kaitolegion/SRS/assets/47966968/81a0c092-f7f4-49f3-b62f-777794995bd2)
+
 
 ### Faculty Dashboard
 
